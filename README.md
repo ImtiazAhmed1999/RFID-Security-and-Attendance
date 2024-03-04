@@ -31,7 +31,7 @@ The custom mobile application, developed using MIT App Inventor environment, ser
 <p><b>Web Dashboard:</b>
 <br>
 The cloud platform, facilitated by Google Sheets, acts as a centralized repository for data storage and management. Attendance records, appliance usage statistics, and environmental monitoring data are stored securely in Google Sheets. The cloud platform ensures data accessibility, scalability, and real-time synchronization, allowing for efficient updates and seamless integration with both the mobile application and the web dashboard.</p>
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p><b>Methodology</b>
 <br>
 The ESP32 and RDM6300 RFID module collaborate for secure access control, validating tags seamlessly. RFID signals activate tags, transmitting unique identifiers to the ESP32 for validation. Upon success, a servo motor opens the gate and triggers a buzzer alert. The servo motor, guided by the microcontroller, ensures controlled entry. The MOSFET IRF7540 regulates fans via HTTP requests, promoting energy efficiency.</p>
