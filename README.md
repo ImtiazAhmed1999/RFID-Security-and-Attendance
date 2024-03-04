@@ -8,7 +8,7 @@ The proposed system integrates various IoT components to create a smart workplac
 
  <p><b>Circuit diagram: </b><br>
 ![Schematic_micro project](https://github.com/ImtiazAhmed1999/RFID-Security-and-Attendance/assets/101192574/d375a655-3e29-427e-b8ee-6ff5e6e93159)
-<br></p>
+ </p><br> <br>
 
 <p>
  <b>Software Components:</b> <br> <br>
