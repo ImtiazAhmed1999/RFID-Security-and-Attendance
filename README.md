@@ -8,3 +8,9 @@ The proposed system integrates various IoT components to create a smart workplac
  <b>Circuit diagram: </b><br>
 ![Schematic_micro project](https://github.com/ImtiazAhmed1999/RFID-Security-and-Attendance/assets/101192574/d375a655-3e29-427e-b8ee-6ff5e6e93159)
 
+<p>
+ <b>Software Components:</b> <br>
+ <b>Cloud Platform(Google Sheet):</b> <br>
+ The cloud platform, facilitated by Google Sheets, acts as a centralized repository for data storage and management. Attendance records, appliance usage statistics, and environmental monitoring data are stored securely in Google Sheets. The cloud platform ensures data accessibility, scalability, and real-time synchronization, allowing for efficient updates and seamless integration with both the mobile application and the web dashboard.<br>
+ To streamline the process of updating Google Sheets with real-time data, the system incorporates IFTTT (If This Then That) integration. IFTTT automates the data update process, enabling immediate synchronization between various components of the system. This integration ensures that changes in attendance records, appliance usage, or environmental data are promptly reflected in the cloud platform.
+</p>
