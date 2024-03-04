@@ -54,7 +54,7 @@ The power backup solution, consisting of a 12V battery and an LM2596 buck conver
 
 ---
 
-<p><b>System Testing:</b><br>
+<p><b>System Testing:🕵️‍♂️📋🧪</b><br>
 <br>
  <b>Prototype working:</b>
  
