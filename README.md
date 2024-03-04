@@ -31,7 +31,7 @@ The ESP32 microcontroller orchestrates the integration with the RDM6300 RFID mod
 <br>
 Upon successful RFID authentication, the system employs a servo motor to open the gate and activates a warning buzzer to alert individuals nearby. The servo motor, under the guidance of the microcontroller, engages the door mechanism post-RFID verification, ensuring a controlled and secure entry. Simultaneously, the MOSFET IRF7540 plays a pivotal role in regulating fans through HTTP requests, contributing to a dynamic and energy-efficient workplace environment.</p>
 
-<p><b>User Feedback, Security Measures, and Buzzer Integration</b>
+<p><b>User Feedback, Security Measures, and Buzzer Integration:</b>
 <br>
 The OLED display and buzzer collaborate seamlessly to provide immediate user feedback and enhance security. The display offers visual insights into access attempts, while the buzzer serves as an audible alarm, alerting users to unauthorized access attempts or potential hazards.</p>
 
