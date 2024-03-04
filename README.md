@@ -24,3 +24,17 @@ The custom mobile application, developed using MIT App Inventor environment, ser
 <p><b>Web Dashboard:</b>
 <br>
 The cloud platform, facilitated by Google Sheets, acts as a centralized repository for data storage and management. Attendance records, appliance usage statistics, and environmental monitoring data are stored securely in Google Sheets. The cloud platform ensures data accessibility, scalability, and real-time synchronization, allowing for efficient updates and seamless integration with both the mobile application and the web dashboard.</p>
+
+<p><b>Methodology</b>
+<br>
+The ESP32 microcontroller orchestrates the integration with the RDM6300 RFID module, forming a symbiotic relationship for secure access control. It processes RFID data, validating employee tags for a seamless and secure entry process. The RFID authentication process involves the emission of radio frequency (RF) signals by the RFID reader (RDM6300), activating RFID tags affixed to items. These tags use absorbed energy to transmit unique identifiers to the ESP32 microprocessor, which cross-references them with an authorized database for legitimacy.
+<br>
+Upon successful RFID authentication, the system employs a servo motor to open the gate and activates a warning buzzer to alert individuals nearby. The servo motor, under the guidance of the microcontroller, engages the door mechanism post-RFID verification, ensuring a controlled and secure entry. Simultaneously, the MOSFET IRF7540 plays a pivotal role in regulating fans through HTTP requests, contributing to a dynamic and energy-efficient workplace environment.</p>
+
+<p><b>User Feedback, Security Measures, and Buzzer Integration</b>
+<br>
+The OLED display and buzzer collaborate seamlessly to provide immediate user feedback and enhance security. The display offers visual insights into access attempts, while the buzzer serves as an audible alarm, alerting users to unauthorized access attempts or potential hazards.</p>
+
+<p><b>Power Backup Solution:</b>
+<br>
+The power backup solution, consisting of a 12V battery and an LM2596 buck converter, integrates smoothly with the overall system architecture. This setup ensures a stable 5V supply for prolonged and uninterrupted system operation, even in the face of power disruptions.</p>
