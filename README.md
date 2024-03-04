@@ -75,7 +75,8 @@ The power backup solution, consisting of a 12V battery and an LM2596 buck conver
 ---
 
 <p><b>LICENSE</b>
-
- --- 
+  
 This project is licensed under the terms of the [LICENSE.md](LICENSE.md) file.
 </p>
+
+---
