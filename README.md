@@ -1,6 +1,9 @@
 # RFID-Security-and-Attendance
 <p> Conventional work environments grapple with data fragmentation, security threats, and inefficiencies, burdened by laborious manual methods prone to errors. Smart automation technologies like mobile apps, environmental sensors, RFID security, and cloud-based data monitoring offer solutions for heightened security and efficiency. The project's aim is to deliver a comprehensive smart workplace system featuring simple component control via a mobile app, alongside cloud-based data monitoring, all geared towards maximizing productivity and operational efficiency. </p>
 
+---
+
+
 <ins><p><b>🏰🛠️🖥SYSTEM ARCHITECTURE:<br></b>
 The proposed system integrates various IoT components to create a smart workplace environment that enhances security, access control, and environmental monitoring. The architecture consists of several interconnected modules, each serving specific functions and interacting with one another to achieve comprehensive workplace management.</p>
 <p><ul>
@@ -16,6 +19,8 @@ The proposed system integrates various IoT components to create a smart workplac
   
 ![Schematic_micro project](https://github.com/ImtiazAhmed1999/RFID-Security-and-Attendance/assets/101192574/d375a655-3e29-427e-b8ee-6ff5e6e93159)
  </p><br> <br>
+
+---
 
 <p>
  <b>🚀💻🌐Software Components:</b> <br> <br>
