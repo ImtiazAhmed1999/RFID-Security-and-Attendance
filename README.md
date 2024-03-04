@@ -42,5 +42,6 @@ The power backup solution, consisting of a 12V battery and an LM2596 buck conver
 <p><b>System Testing:</b><br>
 <br>
  <b>Prototype working:</b>
- 
+![deen](https://github.com/ImtiazAhmed1999/RFID-Security-and-Attendance/assets/101192574/d9fc5ff9-e422-4627-b65f-3a275d821dc5)
+![door-1](https://github.com/ImtiazAhmed1999/RFID-Security-and-Attendance/assets/101192574/d9bf85b8-7376-4c72-8ad1-e254ae9ad6db)
 </p>
