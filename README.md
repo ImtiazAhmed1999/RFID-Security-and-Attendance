@@ -7,6 +7,7 @@ The proposed system integrates various IoT components to create a smart workplac
  <p>Powering the system is a 12V battery regulated by an LM2596 buck converter, delivering a stable 5V supply to all components for efficient operation and extended battery life. The system draws power from the general AC supply of the room using an AC/DC converter to convert the AC voltage to 12V DC. Subsequently, the LM2596 buck converter further regulates this voltage to 5V DC, powering the ESP32 and other devices. Moreover, a 12V DC backup source ensures uninterrupted power supply in case of load shedding or disruptions, enhancing system reliability. Additionally, the system utilizes the MOSFET IRF7540 for centralized control of room components, enabling remote management and enhancing operational efficiency. Together, these hardware components create a robust framework for a smart workplace environment, seamlessly integrating access control, environmental monitoring, and user interaction functionalities.</p><br>
 
  <p><b>Circuit diagram: </b><br>
+  
 ![Schematic_micro project](https://github.com/ImtiazAhmed1999/RFID-Security-and-Attendance/assets/101192574/d375a655-3e29-427e-b8ee-6ff5e6e93159)
  </p><br> <br>
 
@@ -42,6 +43,8 @@ The power backup solution, consisting of a 12V battery and an LM2596 buck conver
 <p><b>System Testing:</b><br>
 <br>
  <b>Prototype working:</b>
+ 
 ![deen](https://github.com/ImtiazAhmed1999/RFID-Security-and-Attendance/assets/101192574/d9fc5ff9-e422-4627-b65f-3a275d821dc5)
+ 
 ![door-1](https://github.com/ImtiazAhmed1999/RFID-Security-and-Attendance/assets/101192574/d9bf85b8-7376-4c72-8ad1-e254ae9ad6db)
 </p>
