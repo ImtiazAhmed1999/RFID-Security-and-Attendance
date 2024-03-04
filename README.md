@@ -28,9 +28,7 @@ The cloud platform, facilitated by Google Sheets, acts as a centralized reposito
 
 <p><b>Methodology</b>
 <br>
-The ESP32 microcontroller orchestrates the integration with the RDM6300 RFID module, forming a symbiotic relationship for secure access control. It processes RFID data, validating employee tags for a seamless and secure entry process. The RFID authentication process involves the emission of radio frequency (RF) signals by the RFID reader (RDM6300), activating RFID tags affixed to items. These tags use absorbed energy to transmit unique identifiers to the ESP32 microprocessor, which cross-references them with an authorized database for legitimacy.
-<br>
-Upon successful RFID authentication, the system employs a servo motor to open the gate and activates a warning buzzer to alert individuals nearby. The servo motor, under the guidance of the microcontroller, engages the door mechanism post-RFID verification, ensuring a controlled and secure entry. Simultaneously, the MOSFET IRF7540 plays a pivotal role in regulating fans through HTTP requests, contributing to a dynamic and energy-efficient workplace environment.</p>
+The ESP32 and RDM6300 RFID module collaborate for secure access control, validating tags seamlessly. RFID signals activate tags, transmitting unique identifiers to the ESP32 for validation. Upon success, a servo motor opens the gate and triggers a buzzer alert. The servo motor, guided by the microcontroller, ensures controlled entry. The MOSFET IRF7540 regulates fans via HTTP requests, promoting energy efficiency.</p>
 
 <p><b>User Feedback, Security Measures, and Buzzer Integration:</b>
 <br>
