@@ -16,3 +16,11 @@ The proposed system integrates various IoT components to create a smart workplac
  The cloud platform, facilitated by Google Sheets, acts as a centralized repository for data storage and management. Attendance records, appliance usage statistics, and environmental monitoring data are stored securely in Google Sheets. The cloud platform ensures data accessibility, scalability, and real-time synchronization, allowing for efficient updates and seamless integration with both the mobile application and the web dashboard.<br>
  To streamline the process of updating Google Sheets with real-time data, the system incorporates IFTTT (If This Then That) integration. IFTTT automates the data update process, enabling immediate synchronization between various components of the system. This integration ensures that changes in attendance records, appliance usage, or environmental data are promptly reflected in the cloud platform.
 </p>
+
+<p><b>Mobile Application:</b>
+<br>
+The custom mobile application, developed using MIT App Inventor environment, serves as a central interface for authorized personnel. This application connects to the core system, providing real-time access to workplace data, appliance usage statistics, and attendance records. It serves as a control center for users to interact with and manage various aspects of the workplace, offering a user-friendly experience.</p>
+
+<p><b>Web Dashboard:</b>
+<br>
+The cloud platform, facilitated by Google Sheets, acts as a centralized repository for data storage and management. Attendance records, appliance usage statistics, and environmental monitoring data are stored securely in Google Sheets. The cloud platform ensures data accessibility, scalability, and real-time synchronization, allowing for efficient updates and seamless integration with both the mobile application and the web dashboard.</p>
