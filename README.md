@@ -38,3 +38,9 @@ The OLED display and buzzer collaborate seamlessly to provide immediate user fee
 <p><b>Power Backup Solution:</b>
 <br>
 The power backup solution, consisting of a 12V battery and an LM2596 buck converter, integrates smoothly with the overall system architecture. This setup ensures a stable 5V supply for prolonged and uninterrupted system operation, even in the face of power disruptions.</p>
+
+<p><b>System Testing:</b><br>
+<br>
+ <b>Prototype working:</b>
+ 
+</p>
