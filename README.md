@@ -1,6 +1,7 @@
 # RFID-Security-and-Attendance
 <p> Conventional work environments grapple with data fragmentation, security threats, and inefficiencies, burdened by laborious manual methods prone to errors. Smart automation technologies like mobile apps, environmental sensors, RFID security, and cloud-based data monitoring offer solutions for heightened security and efficiency. The project's aim is to deliver a comprehensive smart workplace system featuring simple component control via a mobile app, alongside cloud-based data monitoring, all geared towards maximizing productivity and operational efficiency. </p>
-<p><b>SYSTEM ARCHITECTURE:<br></b>
+
+<p><b>🏰🛠️🖥🔌SYSTEM ARCHITECTURE:<br></b>
 The proposed system integrates various IoT components to create a smart workplace environment that enhances security, access control, and environmental monitoring. The architecture consists of several interconnected modules, each serving specific functions and interacting with one another to achieve comprehensive workplace management.</p>
 <p><ul>
   <li>The ESP32 orchestrates integration with the RDM6300 RFID module for secure access control.</li>
@@ -17,7 +18,7 @@ The proposed system integrates various IoT components to create a smart workplac
  </p><br> <br>
 
 <p>
- <b>Software Components:</b> <br> <br>
+ <b>🚀💻🌐Software Components:</b> <br> <br>
  <b>Cloud Platform(Google Sheet):</b> <br>
  The cloud platform, facilitated by Google Sheets, acts as a centralized repository for data storage and management. Attendance records, appliance usage statistics, and environmental monitoring data are stored securely in Google Sheets. The cloud platform ensures data accessibility, scalability, and real-time synchronization, allowing for efficient updates and seamless integration with both the mobile application and the web dashboard.<br>
  To streamline the process of updating Google Sheets with real-time data, the system incorporates IFTTT (If This Then That) integration. IFTTT automates the data update process, enabling immediate synchronization between various components of the system. This integration ensures that changes in attendance records, appliance usage, or environmental data are promptly reflected in the cloud platform.
